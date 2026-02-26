@@ -38,7 +38,7 @@ router.get('/test', (req, res) => {
 });
 
 router.get('/test2', (req, res) => {
-  res.json({ status: 'This is a test2 api', timestamp: new Date().toISOString() });
+  res.json({ message: 'This is a test2 api', timestamp: new Date().toISOString() });
 });
 
 module.exports = router;
