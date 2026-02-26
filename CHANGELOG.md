@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ChamikaNimsara/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
+
+
+### Bug Fixes
+
+* updated test api message ([6aebf93](https://github.com/ChamikaNimsara/semantic-release-workshop/commit/6aebf93261dbfc5d27e959ff515b91bc8c053f42))
+
 # 1.0.0 (2026-02-26)
 
 
