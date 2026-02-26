@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ChamikaNimsara/semantic-release-workshop/compare/v1.0.1...v1.1.0) (2026-02-26)
+
+
+### Features
+
+* added issuccess to test api response ([2d30d8a](https://github.com/ChamikaNimsara/semantic-release-workshop/commit/2d30d8a59bd5e720f75358e43789f5715edffbb6))
+
 ## [1.0.1](https://github.com/ChamikaNimsara/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
 
 
