@@ -34,7 +34,7 @@ router.get('/health', (req, res) => {
 });
 
 router.get('/test', (req, res) => {
-  res.json({ status: 'This is a test api', timestamp: new Date().toISOString() });
+  res.json({ status: 'This is a test api for testing.', timestamp: new Date().toISOString() });
 });
 
 router.get('/test2', (req, res) => {
