@@ -41,7 +41,7 @@ router.get('/test2', (req, res) => {
   res.json({ message: 'This is a test2 api', timestamp: new Date().toISOString() });
 });
 
-router.get('/test3', (req, res) => {
+router.get('/test4', (req, res) => {
   res.json({ message: 'This is a test2 api', timestamp: new Date().toISOString() });
 });
 
