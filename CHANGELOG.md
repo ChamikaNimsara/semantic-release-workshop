@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/ChamikaNimsara/semantic-release-workshop/compare/v1.2.0...v2.0.0) (2026-02-26)
+
+
+### Features
+
+* updated api url ([0782081](https://github.com/ChamikaNimsara/semantic-release-workshop/commit/0782081382d4d8b502ae28520a53daacc47e2eac))
+
+
+### BREAKING CHANGES
+
+* api url changed
+
 # [1.2.0](https://github.com/ChamikaNimsara/semantic-release-workshop/compare/v1.1.0...v1.2.0) (2026-02-26)
 
 
