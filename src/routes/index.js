@@ -34,7 +34,7 @@ router.get('/health', (req, res) => {
 });
 
 router.get('/test', (req, res) => {
-  res.json({ status: 'test', timestamp: new Date().toISOString() });
+  res.json({ status: 'This is a test api', timestamp: new Date().toISOString() });
 });
 
 module.exports = router;
